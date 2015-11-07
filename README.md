@@ -1,6 +1,7 @@
 # Message Queues
 
 Authors: Gunnar Marteinsson & Sigurður Már Atlason
+
 Instructions made mainly by @hlysig
 
 Before you start read these documents:
@@ -14,7 +15,9 @@ Open Terminal.
 
 Download Kafka and unarchive it.
 1. ```mkdir ~/kafka-setup```
+
 2. ```cd ~/kafka-setup wget http://www.eu.apache.org/dist/kafka/0.8.2.2/kafka_2.9.1-0.8.2.2.tgz```
+
 3. ```tar xzvf kafka_2.9.1-0.8.2.2.tgz```
 
 We need to start two services for everything to work properly. We need to start a single ZooKeeper node and a single Kafka broker node.
