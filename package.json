@@ -1,0 +1,23 @@
+{
+  "name": "messagequeues",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sigurdura13/assignment-9---Message-queues.git"
+  },
+  "author": "Gunnar Marteinsson & Sigurður Már Atlason",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sigurdura13/assignment-9---Message-queues/issues"
+  },
+  "homepage": "https://github.com/sigurdura13/assignment-9---Message-queues#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "kafka-node": "^0.2.29"
+  }
+}
